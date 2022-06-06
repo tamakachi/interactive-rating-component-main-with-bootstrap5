@@ -1,4 +1,4 @@
-Project completed according to specifications using Bootstrap 5
+Project completed according to specifications using HTML, CSS, Bootstrap 5 and Vanilla Javascript
 
 The specifications for this project were:
 
