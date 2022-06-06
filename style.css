@@ -1,0 +1,71 @@
+body{
+    font-family: 'Overpass', sans-serif;
+}
+
+.dark{
+    background-color:rgba(30,37,47,255);
+}
+
+.round-corners{
+    border-radius: 25px;
+}
+
+.custom-text-muted{
+    color: hsl(217, 12%, 63%);
+}
+
+.bg-circle{
+    background-color: hsl(213, 19%, 18%)
+}
+
+.dark-background{
+    background-color: hsl(213, 19%, 18%)
+}
+
+.btn-circle.btn-xl {
+    width: 35px;
+    height: 35px;
+    padding: 7px 5px;
+    border-radius: 50px;
+    border: 0px;
+    text-align: center;
+}
+
+.btn:hover{
+    background-color: hsl(217, 12%, 63%);
+    color:  hsl(0, 0%, 100%);
+    
+}
+
+.btn:active, .btn:focus, .submit{
+    background-color: hsl(25, 97%, 53%);
+    color:  hsl(0, 0%, 100%);
+    border: 0px;
+    
+}
+
+.submit:hover{
+
+    background-color: hsl(0, 0%, 100%);
+    color:  hsl(25, 97%, 53%);
+
+}
+
+.illustration-ty{
+    width: 150px;
+}
+
+.selection{
+    background-color:hsl(213, 19%, 18%);
+    color: hsl(25, 97%, 53%);
+    font-weight: 400;
+    font-size: 0.8rem;
+    border-radius: 16px;
+    margin-left: 21%;
+    margin-right: 21%;
+}
+
+#secondform{
+    display: none;
+}
+
